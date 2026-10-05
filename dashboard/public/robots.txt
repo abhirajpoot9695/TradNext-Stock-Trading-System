@@ -1,0 +1,24 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+
+App.test.js
+import { render, screen } from '@testing-library/react';
+import App from './App';
+
+test('renders learn react link', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/learn react/i);
+  expect(linkElement).toBeInTheDocument();
+});
+
+
+qYXGrSOVpBfyBsER     mongo pass for tradenext
+abhishekkumaryadav_db_user     username
+
+
+https://backend-z5dv.onrender.com
+
+dashboard-rzzn.vercel.app
